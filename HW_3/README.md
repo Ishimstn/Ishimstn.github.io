@@ -8,6 +8,6 @@ I was able to implement and create my own javascript file to create the core str
 
 ### Screenshots of Application
 
-![](images/Password_Generator_0.png)
-![](images/Password_Generator.png)
+![Password_Generator_0](https://user-images.githubusercontent.com/41960292/104819231-20e12a80-57fa-11eb-89c1-4eb5e7bab124.PNG)
 
+![Password_Generator](https://user-images.githubusercontent.com/41960292/104819251-466e3400-57fa-11eb-8417-7632f75b95c6.PNG)
