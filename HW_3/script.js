@@ -38,7 +38,7 @@ function generateBenchmark() {
 
     // Object to contain the User Input 
     var user_Password = {
-        user_length: user_length,
+        user_input: user_input,
         containLower: containLower,
         containUpper: containUpper,
         containSpecial: containSpecial,
@@ -94,7 +94,7 @@ function generatePassword() {
     }
 
     // For Loop that iterates over the password length of the user from the User_Password object, which selects random indices from the arrays of possible character types and conatenating those inputs into the final_Password variable
-    for (var i = 0; i < input.user_length; i++) {
+    for (var i = 0; i < input.user_input; i++) {
         var Potential_Char = getRandom(potential_Char);
 
         final_Password.push(Potential_Char);
